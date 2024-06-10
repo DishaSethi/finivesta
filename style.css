@@ -33,7 +33,7 @@ html{
 body{
     background: var(--bg-color);
     color: var(--text-color);
-    background-image: url(imgs/back.jpg);
+    background-image: url(back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
